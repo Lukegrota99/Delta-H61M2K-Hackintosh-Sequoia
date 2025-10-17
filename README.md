@@ -73,7 +73,7 @@
 ## 🧾 Boot-args Ativos
 
 ```
--v keepsyms=1 debug=0x100 agdpmod=pikera
+-v keepsyms=1 debug=0x100 agdpmod=pikera(Não é Obrigatorio para RX560)
 ```
 
 ---
