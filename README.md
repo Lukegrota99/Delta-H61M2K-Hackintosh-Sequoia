@@ -54,7 +54,7 @@
 | [Lilu.kext](https://github.com/acidanthera/Lilu) | Framework principal |
 | [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | GPU / gráficos AMD |
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | Emulação SMC |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | Áudio (USB HD Audio) |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | Áudio (USB HD Audio) teste sem|
 | [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X) | Rede Realtek PCIe GbE |
 | [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | Otimização de NVMe |
 | [FeatureUnlock.kext](https://github.com/acidanthera/FeatureUnlock) | Sidecar e recursos extras |
