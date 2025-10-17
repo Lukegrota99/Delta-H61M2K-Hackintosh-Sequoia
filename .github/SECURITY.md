@@ -13,7 +13,7 @@ As seguintes proteções estão ativas:
 
 ## Relato de vulnerabilidades
 Caso identifique algum problema técnico, bug crítico ou falha de segurança, envie um e-mail para:
-📧 **d.freiretv@gmail.com**
+📧 **d.3tecnologia@gmail.com**
 
 Não abra *issues públicas* para bugs de segurança.
 
